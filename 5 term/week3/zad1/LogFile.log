@@ -1,0 +1,38 @@
+paź 28, 2019 10:45:46 AM MainPackage.MyLogger sendMessage
+INFO: Racer Wandzel started
+paź 28, 2019 10:45:49 AM MainPackage.MyLogger sendMessage
+INFO: Racer Kwaśny started
+paź 28, 2019 10:45:51 AM MainPackage.MyLogger sendMessage
+INFO: Racer Bożyk started
+paź 28, 2019 10:45:53 AM MainPackage.MyLogger sendMessage
+INFO: Racer Orzeszko started
+paź 28, 2019 10:45:56 AM MainPackage.MyLogger sendMessage
+INFO: Racer Bajno started
+paź 28, 2019 10:45:56 AM MainPackage.MyLogger sendMessage
+INFO: Racer Wandzel finished, time: 240 sec
+paź 28, 2019 10:45:58 AM MainPackage.MyLogger sendMessage
+INFO: Racer Pintal started
+paź 28, 2019 10:46:01 AM MainPackage.MyLogger sendMessage
+INFO: Racer Szostakowski started
+paź 28, 2019 10:46:02 AM MainPackage.MyLogger sendMessage
+INFO: Racer Kwaśny finished, time: 308 sec
+paź 28, 2019 10:46:03 AM MainPackage.MyLogger sendMessage
+INFO: Racer Naskręt started
+paź 28, 2019 10:46:05 AM MainPackage.MyLogger sendMessage
+INFO: Racer Rutkiewicz started
+paź 28, 2019 10:46:05 AM MainPackage.MyLogger sendMessage
+INFO: Racer Bożyk finished, time: 340 sec
+paź 28, 2019 10:46:06 AM MainPackage.MyLogger sendMessage
+INFO: Racer Orzeszko finished, time: 293 sec
+paź 28, 2019 10:46:08 AM MainPackage.MyLogger sendMessage
+INFO: Racer Godawa started
+paź 28, 2019 10:46:10 AM MainPackage.MyLogger sendMessage
+INFO: Racer Węgrzynowski started
+paź 28, 2019 10:46:10 AM MainPackage.MyLogger sendMessage
+INFO: Racer Bajno finished, time: 344 sec
+paź 28, 2019 10:46:11 AM MainPackage.MyLogger sendMessage
+INFO: Racer Szostakowski finished, time: 248 sec
+paź 28, 2019 10:46:12 AM MainPackage.MyLogger sendMessage
+INFO: Racer Pintal finished, time: 328 sec
+paź 28, 2019 10:46:13 AM MainPackage.MyLogger sendMessage
+INFO: Racer Grech started
