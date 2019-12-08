@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b8d0303-7223-4478-98d4-13c66d15727d" name="Default Changelist" comment="" />
+    <list default="true" id="0410b579-0ec9-44f9-b179-036d1f526e1f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1UOzZtn6kYkhuBr5nwpsS4OjGcC" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UQBuKf1NzMfU2GXjMngQS2FOWv" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zad3" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PIO/iislabpio_215801/pio_git_rhymers" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,11 +53,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1b8d0303-7223-4478-98d4-13c66d15727d" name="Default Changelist" comment="" />
-      <created>1575242489034</created>
+      <changelist id="0410b579-0ec9-44f9-b179-036d1f526e1f" name="Default Changelist" comment="" />
+      <created>1575279159388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575242489034</updated>
+      <updated>1575279159388</updated>
     </task>
     <servers />
   </component>
